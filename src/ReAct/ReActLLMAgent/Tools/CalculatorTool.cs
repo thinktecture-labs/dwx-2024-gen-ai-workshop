@@ -7,7 +7,7 @@ public class CalculatorTool : ITool
 {
     public string Name => "CalculatorTool";
 
-    public string Description => "Very simple calculator to do basic math operations";
+    public string Description => "Calculator to do mathematical operations";
 
     public string Execute(string inputText)
     {
